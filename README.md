@@ -17,6 +17,6 @@ Each time series represents an approximately 3-second breath. The files are orga
 :construction_worker: :construction: under construction. More updates coming soon... :construction: :construction_worker:
 
 ## Results:
-Current position: 180 of 1985 teams... and going up :rocket:
+Current position: 63 of 1985 teams... and going up :rocket:
 
-![2bcc2fa76ef935d43feb1518ae43bbcf](https://user-images.githubusercontent.com/38012479/137607263-ca5cd3bb-afe5-4355-a7f6-7368aac890bc.png)
+![3feeaef4eb40eea58ff484885bebd948](https://user-images.githubusercontent.com/38012479/137638167-5e340134-49d2-4141-ba3e-0b6324a3b9b2.png)
