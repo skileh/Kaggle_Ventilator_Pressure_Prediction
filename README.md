@@ -7,6 +7,8 @@ Repository for versioning algorithms for the competition - Google Brain -
 
 Outdated code. At the end of the competition I will update the official position.
 
-Best Score: 0.153
+Best Score: 0.144
 
-Current position: 640 of 1942 teams... and going up :rocket:
+Current position: 180 of 1985 teams... and going up :rocket:
+
+![2bcc2fa76ef935d43feb1518ae43bbcf](https://user-images.githubusercontent.com/38012479/137607263-ca5cd3bb-afe5-4355-a7f6-7368aac890bc.png)
